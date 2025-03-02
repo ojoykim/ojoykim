@@ -1,0 +1,189 @@
+[
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"Pre valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":0.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"cold valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":1.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"hot valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":2.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"Bleach valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":3.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"Dry\/Safety valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":4.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"Steam valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":5.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"Drain valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":6.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"Bubble valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":7.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"AA valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":8.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"BB valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":9.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"CC valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":10.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"DD valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":11.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"EE valve",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":12.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"reserved",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":13.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"reserved",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":14.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":17.0,
+        "Command":"Washer Relay Test",
+        "Data":"reserved",
+        "Data Type":"Bit Field",
+        "Data Length":2,
+        "Start Bit":15.0,
+        "Min":0,
+        "Max":1,
+        "C":"-"
+    },
+    {
+        "Command Index":20.0,
+        "Command":"EEV control",
+        "Data":"EEV",
+        "Data Type":"Range",
+        "Data Length":2,
+        "Start Bit":15.0,
+        "Min":0,
+        "Max":480,
+        "C":"-"
+    }
+]
